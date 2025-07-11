@@ -36,7 +36,7 @@ This bot implements most question types, so even on the most **outrageous** Kaho
 
 To get started using AutoKahoot, clone this repository with:
 ```
-git clone https://github.com/Kieran-Lock/AutoKahoot.git
+git clone https://github.com/totgokhung123/Auto-answer-quiz-kahoot.git
 ```
 
 Further configuration is not required.
@@ -60,11 +60,3 @@ Bot Username:	<Any Valid Kahoot Username>
 
 The bot will then connect to the lobby and answer questions automatically - you can sit back and relax!
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GNU General Public License v3.0 License. See [LICENSE](https://github.com/Kieran-Lock/AutoKahoot/blob/main/LICENSE) for further details.
-
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
